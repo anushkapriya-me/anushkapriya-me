@@ -10,7 +10,7 @@
 
 ### Prominent Works
 
-<img src="https://dev-readme.netlify.app/.netlify/functions/displayboard?user=anushkapriya-me&repos=Voice%20Coach%20AI%20Agent%2CGuessFlix" alt="Projects Display Board" width="100%" />
+<img src="https://dev-readme.netlify.app/.netlify/functions/displayboard?user=anushkapriya-me&repos=VOICE-AI-STUDY-COACH%2CGuessFlix" alt="Projects Display Board" width="100%" />
 
 
 </div>
