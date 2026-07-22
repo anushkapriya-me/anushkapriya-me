@@ -139,8 +139,8 @@ I enjoy developing full-stack web applications and AI-powered tools. Currently s
 <p align="center">
   <a href="https://github.com/anushkapriya-me"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/anushkapriya-me/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Anushka-Priya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/anushkapriya-me"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Anushka-Priya"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>&nbsp;&nbsp;
 </p>
 
 <div align="center">
@@ -156,7 +156,7 @@ I enjoy developing full-stack web applications and AI-powered tools. Currently s
 
 ## 3D Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anushkapriya-me/anushkapriya-me/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/anushkapriya-me/anushkapriya-me/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 
   <br><br>
   <img src="https://metrics.lecoq.io/anushkapriya-me?theme=dark&template=classic&base=header,activity,community,repositories,metadata&base.indepth=false&base.hireable=false&base.skip=false&plugin_isocalendar=false&plugin_calendar=false&v=4" alt="Classic User Account" width="100%" />
@@ -185,7 +185,7 @@ I enjoy developing full-stack web applications and AI-powered tools. Currently s
 ## Arena Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/Anushka-Priya/?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Heatmap" width="49%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/Anushka-Priya/?theme=dark&font=Inter&ext=contest" alt="LeetCode Contest" width="39%" />
+  <img src="https://leetcard.jacoblin.cool/Anushka-Priya?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Heatmap" width="49%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://leetcard.jacoblin.cool/Anushka-Priya?theme=dark&font=Inter&ext=contest" alt="LeetCode Contest" width="39%" />
 </p>
 
